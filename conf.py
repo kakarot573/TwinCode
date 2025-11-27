@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'keyes WiKi'
-copyright = 'keyes , WiKi'
-author = 'keyes WiKi'
+project = 'tw WiKi'
+copyright = 'tw , WiKi'
+author = 'tw WiKi'
 
 # -- General configuration ---------------------------------------------------
 
