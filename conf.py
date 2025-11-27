@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'keyes WiKi'
-copyright = 'keyes , WiKi'
-author = 'keyes WiKi'
+project = 'TwinCode WiKi'
+copyright = 'TwinCode , WiKi'
+author = 'TwinCode WiKi'
 
 # -- General configuration ---------------------------------------------------
 
