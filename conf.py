@@ -74,9 +74,8 @@ html_theme_options = {
     'logo_only': False,
     'display_version': True,
     'prev_next_buttons_location': 'bottom',
-    'style_nav_header_background': "#07f1e1",  # 导航栏背景色
+    'style_nav_header_background': "#f1f107",  # 导航栏背景色
 }
-
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
